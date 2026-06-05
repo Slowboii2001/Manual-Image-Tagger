@@ -1,10 +1,12 @@
 # Manual-Image-Tagger
-I got fed up with other image tagging programs, so I decided to make my own
+
+	I got fed up with other image tagging programs, so I decided to make my own
 
 # HOW IT WORKS
 
 Select Folder:
-  Select the folder with the images you want to tag
+
+	Select the folder with the images you want to tag
 
   
 Tagger:
