@@ -24,7 +24,7 @@ Tagger:
   	Mode: Grid View:
       	-Select one tag and choose the images that you think match that tag
   	Mode: Focus View:
-        -Select multiple tags for a single image at a time (You can navigate between images with arrow kays, right/down is next, left/up is back)
+        -Select multiple tags for a single image at a time (You can navigate between images with arrow keys, right/down is next, left/up is back)
           
   Tag Chains:
 	<img width="2560" height="1390" alt="image" src="https://github.com/user-attachments/assets/0fe6ca79-7a27-4d2f-8575-4e82c98a916d" />
